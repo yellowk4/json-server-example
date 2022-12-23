@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "description": "json-server 공부하기",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "description": "시리즈 읽어보기",
+      "isCompleted": true
+    },
+    {
+      "description": "첫 글 입력1",
+      "isCompleted": false,
+      "id": 3
+    }
+  ]
+}
